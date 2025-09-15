@@ -19,9 +19,8 @@
 - Matplotlib, Seaborn  
 
   ## Ссылки
-- 📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data)  
-- 📒 [Ноутбук (часть 1)](https://colab.research.google.com/drive/1-f9bIddx8WIXD200SXedHaSPMuM-Eql_?usp=sharing),
-- [Ноутбук (часть 2)](https://colab.research.google.com/drive/1Mbd0Ym5oxAWbymwwy505jwZRMfLLrrtM?usp=sharing)
+- 📊 [Dataset on Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data)
+- 📒 [Ноутбук (часть 1)](https://colab.research.google.com/drive/1-f9bIddx8WIXD200SXedHaSPMuM-Eql_?usp=sharing), [Ноутбук (часть 2)](https://colab.research.google.com/drive/1Mbd0Ym5oxAWbymwwy505jwZRMfLLrrtM?usp=sharing)
 
 
 
